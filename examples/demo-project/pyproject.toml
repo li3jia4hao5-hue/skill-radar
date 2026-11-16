@@ -1,0 +1,8 @@
+[project]
+name = "synthetic-task-api"
+version = "0.0.0"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+test = ["pytest"]

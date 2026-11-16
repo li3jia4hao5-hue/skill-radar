@@ -1,0 +1,12 @@
+{
+  "projects": [
+    {
+      "id": "demo-api",
+      "name": "Synthetic Task API",
+      "path": "examples/demo-project",
+      "scope_note": "Synthetic scanner example, not a real application or recommendation benchmark."
+    }
+  ],
+  "installed_skill_roots": [],
+  "additional_installed_skills": []
+}

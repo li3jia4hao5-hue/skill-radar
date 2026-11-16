@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Radar · 项目技能雷达"
+  short_description: "读取项目需求和技术栈，搜索并核验适配技能，给出少量有来源的推荐"
+  default_prompt: "使用 $skill-radar 扫描当前项目，在 GitHub 查找适配的技能，并说明新增价值、已有覆盖和使用前提。"
